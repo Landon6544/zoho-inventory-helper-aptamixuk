@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name       Zoho Inventory Popup
 // @version    0.1
+// @updateURL https://github.com/Landon6544/zoho-inventory-helper-aptamixuk/blob/master/Zoho%20Inventory%20Popup.user.js
+// @downloadURL https://github.com/Landon6544/zoho-inventory-helper-aptamixuk/blob/master/Zoho%20Inventory%20Popup.user.js
 // @description  Opens links from the CodeProject newsletter
 // @match      https://inventory.zoho.eu/*
 // @match      https://books.zoho.eu/*
